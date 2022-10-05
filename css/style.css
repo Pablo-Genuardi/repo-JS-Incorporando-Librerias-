@@ -1,0 +1,82 @@
+
+
+
+html {
+    min-height: 100%;
+    background-color: rgb(87, 87, 87);
+    text-align: center;
+}
+
+.color-1 {
+    color: rgb(96, 131, 31);
+}
+
+.color-2 {
+    color: rgb(132, 145, 128);
+}
+
+
+.color-3 {
+    color: rgb(143, 143, 143);
+}
+
+.color-4 {
+    color: rgb(179, 179, 179);
+}
+
+.margin-2rem{
+    margin: 2rem;
+}
+
+.margin-3rem{
+    margin: 3rem;
+}
+
+.margin-4rem{
+    margin: 4rem;
+}
+
+.isologo-size{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 23rem;
+}
+
+.border-radius{
+    border-radius: 10px;
+}
+
+.input-max{
+    max-width: 60rem;
+}
+
+
+button {
+    color: antiquewhite;
+    background-color: rgb(132, 145, 128) !important;
+    border-color:  rgb(132, 145, 128) !important;
+}
+
+
+button:hover {
+    color: antiquewhite  !important;
+    background-color: rgb(96, 131, 31) !important;
+}
+
+button:active {
+    background-color: black !important;
+}
+
+.ocultar {
+    display: none;
+}
+
+.guardar {
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.importe {
+    font-weight: 700;
+}
